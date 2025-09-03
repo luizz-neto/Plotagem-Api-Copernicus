@@ -7,8 +7,10 @@ Acesse o [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) e c
 Nessa aba vamos copiar duas coisas:
 url: sua-url
 key: sua-key
+---
 🔹 Passo 2 — Instalar dependência no Python
 pip install cdsapi
+---
 🔹 Passo 3 — Criar arquivo cdsapi
 No diretório home do seu usuário (ex.: C:\Users\seu_usuario\ no Windows ou /home/usuario/ no Linux), crie o arquivo chamado .cdsapirc no bloco de notas mesmo, com o seguinte conteúdo:
 url: sua-url
