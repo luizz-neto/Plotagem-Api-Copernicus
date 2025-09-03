@@ -16,7 +16,7 @@ No diretório home do seu usuário (ex.: C:\Users\seu_usuario\ no Windows ou /ho
 url: sua-url
 key: sua-key
 ---
-################################################################################### DESCRIÇÃO DO SCRIPT ###################################################################################
+######### DESCRIÇÃO DO SCRIPT #########
 
 # 🌍 Download e Processamento de Dados ERA5 via Copernicus API  
 
